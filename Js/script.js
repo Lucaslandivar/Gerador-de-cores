@@ -32,4 +32,4 @@ const copyColor = ( elem, hexVal) => {
     }).catch(() => alert("Erro em copiar o código da cor!"));  // Mostrando advertencia em caso da cor não ser copidada
 }
 
-refreshBtn.addEventListener("click", generatePalette);
+refreshBtn.addEventListener("click", generatePallete);
